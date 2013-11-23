@@ -1,3 +1,8 @@
+##:bangbang:
+
+Now that I think of it more, I do not think it is needed — you should just mixin the classes from `bootstrap.css`.  
+So disregard everyhing below (and this project).
+
 ##Overview
 
 The purpose of this project is to provide one single `bootstrap.less`.  
