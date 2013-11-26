@@ -1,7 +1,7 @@
 ##:bangbang:
 
-Now that I think of it more, I do not think it is needed — you should just mixin the classes from `bootstrap.css`.  
-So disregard everyhing below (and this project).
+Now that I actually tried to use it, I found that bootstrap's less is pointless -- mixins do not include media queries.
+So save yourself some time by not using it this way (and if you care about semantic markup, check some other framework).
 
 ##Overview
 
