@@ -1,13 +1,15 @@
 {
-  "name" : "bootstrap-less-singlefile",
-  "version" : "3.0.2",
+  "name": "bootstrap-less-singlefile",
+  "version": "3.0.2",
   "description": "A single file version of bootstrap .less files.",
   "repository": {
     "type": "git",
     "url": "https://github.com/ashmind/bootstrap-less-singlefile.git"
   },
-  "devDependencies" : { 
-      "bower-strapless" : "git://github.com/ashmind/strapless.git#v3.0.2",
-      "less"            : ">= 1.5.1"
+  "devDependencies": {
+    "less": "~1.5.1",
+    "grunt": "~0.4.2",
+    "bower": "~1.2.7",
+    "grunt-bower-task": "~0.3.4"
   }
 }

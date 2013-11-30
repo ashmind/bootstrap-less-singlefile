@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-less-singlefile",
+  "main": "./dist/bootstrap.less",
+  "version": "3.0.2",
+  "dependencies": {
+    "strapless": ">= 3.0.2"
+  }
+}
